@@ -50,7 +50,8 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
 
 ### BETADCIU
-- [Blantados](https://twitter.com/Blantados) - Lol me
+- [SYerik31](https://www.youtube.com/channel/UCd_GfQuqjVeGiITHqpgOE5g) - Me
+- [Blantados](https://twitter.com/Blantados) - He do the Original Source Code
 
 ### Shoutouts
 - [GWebDev](https://github.com/GrowtopiaFli) - Video Code
