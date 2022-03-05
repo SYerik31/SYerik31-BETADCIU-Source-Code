@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="limoDancer.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg dancer sketch PINK0000" x="2" y="2" width="324" height="387" frameX="-3" frameY="-6" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0001" x="2" y="2" width="324" height="387" frameX="-3" frameY="-6" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0002" x="330" y="2" width="327" height="393" frameX="0" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0003" x="330" y="2" width="327" height="393" frameX="0" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0004" x="330" y="2" width="327" height="393" frameX="0" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0005" x="661" y="2" width="324" height="393" frameX="-2" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0006" x="661" y="2" width="324" height="393" frameX="-2" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0007" x="989" y="2" width="321" height="387" frameX="-5" frameY="-6" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0008" x="989" y="2" width="321" height="387" frameX="-5" frameY="-6" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0009" x="1314" y="2" width="318" height="344" frameX="-16" frameY="-49" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0010" x="1314" y="2" width="318" height="344" frameX="-16" frameY="-49" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0011" x="1636" y="2" width="320" height="345" frameX="-13" frameY="-48" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0012" x="1636" y="2" width="320" height="345" frameX="-13" frameY="-48" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0013" x="1636" y="2" width="320" height="345" frameX="-13" frameY="-48" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0014" x="1636" y="2" width="320" height="345" frameX="-13" frameY="-48" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0015" x="2" y="399" width="323" height="390" frameX="-79" frameY="-4" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0016" x="2" y="399" width="323" height="390" frameX="-79" frameY="-4" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0017" x="329" y="399" width="326" height="393" frameX="-79" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0018" x="329" y="399" width="326" height="393" frameX="-79" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0019" x="329" y="399" width="326" height="393" frameX="-79" frameY="0" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0020" x="659" y="399" width="322" height="392" frameX="-80" frameY="-1" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0021" x="659" y="399" width="322" height="392" frameX="-80" frameY="-1" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0022" x="985" y="399" width="319" height="386" frameX="-80" frameY="-7" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0023" x="985" y="399" width="319" height="386" frameX="-80" frameY="-7" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0024" x="1308" y="399" width="318" height="343" frameX="-70" frameY="-50" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0025" x="1308" y="399" width="318" height="343" frameX="-70" frameY="-50" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0026" x="1630" y="399" width="321" height="344" frameX="-70" frameY="-49" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0027" x="1630" y="399" width="321" height="344" frameX="-70" frameY="-49" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0028" x="1630" y="399" width="321" height="344" frameX="-70" frameY="-49" frameWidth="405" frameHeight="394"/>
+	<SubTexture name="bg dancer sketch PINK0029" x="1630" y="399" width="321" height="344" frameX="-70" frameY="-49" frameWidth="405" frameHeight="394"/>
+</TextureAtlas>
