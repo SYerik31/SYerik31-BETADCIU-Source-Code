@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				175
+			],
+			"playerOffsets": [
+				86,
+				207
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICFUNRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-207,
+				-32
+			],
+			"playerOffsets": [
+				-7,
+				-32
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICFUNDOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-176,
+				495
+			],
+			"playerOffsets": [
+				-146,
+				495
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICFUNUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				207
+			],
+			"playerOffsets": [
+				-108,
+				175
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICFUNLEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-225,
+				161
+			],
+			"playerOffsets": [
+				-225,
+				161
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICFUNIDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nijiam/MaijinAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nijiam",
+	"flip_x": false,
+	"healthbar_colors": [
+                49,
+		255,
+		209
+	],
+	"camera_position": [
+		400,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicFunAssets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONICFUNDOWN instance 10000" x="0" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNDOWN instance 10001" x="626" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNDOWN instance 10002" x="1252" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNDOWN instance 10003" x="1878" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNDOWN instance 10004" x="2504" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNDOWN instance 10005" x="3130" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNDOWN instance 10006" x="3756" y="0" width="626" height="536"/>
+	<SubTexture name="SONICFUNIDLE instance 10000" x="4382" y="536" width="516" height="678"/>
+	<SubTexture name="SONICFUNIDLE instance 10001" x="4898" y="536" width="516" height="678"/>
+	<SubTexture name="SONICFUNIDLE instance 10002" x="5414" y="536" width="516" height="678"/>
+	<SubTexture name="SONICFUNIDLE instance 10003" x="5930" y="536" width="516" height="678"/>
+	<SubTexture name="SONICFUNIDLE instance 10004" x="6446" y="536" width="516" height="678"/>
+	<SubTexture name="SONICFUNIDLE instance 10005" x="6962" y="536" width="516" height="678"/>
+	<SubTexture name="SONICFUNLEFT instance 10000" x="2064" y="1214" width="741" height="553"/>
+	<SubTexture name="SONICFUNRIGHT instance 10000" x="741" y="2445" width="627" height="622"/>
+	<SubTexture name="SONICFUNUP instance 10000" x="5643" y="3067" width="513" height="696"/>
+	<SubTexture name="SONICFUNUP instance 10001" x="6156" y="3067" width="513" height="696"/>
+</TextureAtlas>
