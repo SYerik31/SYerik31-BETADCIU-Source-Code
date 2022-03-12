@@ -17,8 +17,6 @@ Links: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761) ⋅ [play
 ## BETADCIU
 **FNF BETADCIU** is a mod for Friday Night Funkin' which includes different songs being covered by multiple characters! Also contains a few bonus songs and covers as well!
 
-Link to my Channel: https://www.youtube.com/channel/UC4rwJYVeDHxGKnFDhHz88ZQ
-
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
 ## Website ([KadeDev.github.io/kade-engine/](https://KadeDev.github.io/Kade-Engine/))
