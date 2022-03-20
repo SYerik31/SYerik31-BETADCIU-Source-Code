@@ -5366,6 +5366,25 @@ class Character extends FlxSprite
 
 				flipX = true;
 
+			case 'missa':
+				frames = Paths.getSparrowAtlas('characters/Missa_Player');
+				iconColor = 'FF9C6ECC';
+				animation.addByPrefix('singUP', 'Missa ARRIBA', 24, false);
+				animation.addByPrefix('singDOWN', 'Missa ABAJO', 24, false);
+				animation.addByPrefix('singUPmiss', 'MissaUPMISS', 24, false);
+				animation.addByPrefix('idle', 'MissaIdle', 24, false);
+				animation.addByPrefix('singDOWNmiss', 'MissaDOWNMISS', 24, false);
+				animation.addByPrefix('singLEFT', 'Missa DERECHA', 24, false);
+				animation.addByPrefix('singRIGHT', 'Missa IZQUIERDA', 24, false);
+				animation.addByPrefix('singLEFTmiss', 'MissaRIGHTMISS', 24, false);
+				animation.addByPrefix('singRIGHTmiss', 'MissaLEFTMISS', 24, false);	
+				
+				loadOffsetFile('missa');
+
+				playAnim('idle');
+
+				flipX = true;
+
 			case 'tankman' | 'tankman-mad' | 'tankman-sad-blue' | 'tankman-bw':
 				switch (curCharacter)
 				{
@@ -5851,6 +5870,7 @@ class Character extends FlxSprite
 			case 'bf-aloe-confused':
 				frames = Paths.getSparrowAtlas('characters/ALOE_Confused');
 				iconColor = 'FFEF71B1';
+				noteSkin = 'holofunk';
 		
 				animation.addByPrefix('idle', 'BF idle dance', 24, false);
 				animation.addByPrefix('singUP', 'BF NOTE UP0', 24, false);
@@ -5883,6 +5903,7 @@ class Character extends FlxSprite
 			case 'bf-aloe-car':
 				frames = Paths.getSparrowAtlas('characters/aloeCar');
 				iconColor = 'FFEF71B1';
+				noteSkin = 'holofunk';
 
 				animation.addByPrefix('idle', 'BF idle dance', 24, false);
 				animation.addByPrefix('singUP', 'BF NOTE UP0', 24, false);
@@ -6925,16 +6946,19 @@ class Character extends FlxSprite
 				animation.addByPrefix('singLEFT', 'Duet Monika LEFT NOTE', 24, false);
 				animation.addByPrefix('singRIGHT', 'Duet Monika RIGHT NOTE', 24, false);
 				animation.addByPrefix('singDOWN', 'Duet Monika DOWN NOTE', 24, false);
-
 				animation.addByPrefix('singUP-alt', 'Duet Senpai UP NOTE', 24, false);
 				animation.addByPrefix('singDOWN-alt', 'Duet Senpai DOWN NOTE', 24, false);
 				animation.addByPrefix('singLEFT-alt', 'Duet Senpai LEFT NOTE', 24, false);
 				animation.addByPrefix('singRIGHT-alt', 'Duet Senpai RIGHT NOTE', 24, false);
 
-				animation.addByPrefix('cutsceneidle', 'cutscene idle0', 24, false);
-				animation.addByPrefix('cutsceneidle2', 'cutscene idle2', 24, false);
-				animation.addByPrefix('cutscenetransition', 'cutscene transition0', 24, false);
-				animation.addByPrefix('cutscenetransition2', 'cutscene transition2', 24, false);
+				animation.addByPrefix('singUPmiss', 'Duet Monika UP MISS', 24, false);
+				animation.addByPrefix('singLEFTmiss', 'Duet Monika LEFT MISS', 24, false);
+				animation.addByPrefix('singRIGHTmiss', 'Duet Monika RIGHT MISS', 24, false);
+				animation.addByPrefix('singDOWNmiss', 'Duet Monika DOWN MISS', 24, false);
+				animation.addByPrefix('singUPmiss-alt', 'Duet Senpai UP MISS', 24, false);
+				animation.addByPrefix('singDOWNmiss-alt', 'Duet Senpai DOWN MISS', 24, false);
+				animation.addByPrefix('singLEFTmiss-alt', 'Duet Senpai LEFT MISS', 24, false);
+				animation.addByPrefix('singRIGHTmiss-alt', 'Duet Senpai RIGHT MISS', 24, false);
 
 				loadOffsetFile(curCharacter);
 
@@ -7223,7 +7247,7 @@ class Character extends FlxSprite
 
 				antialiasing = false;
 
-			case 'parents-christmas' | 'parents-christmas-angel' | 'parents-christmas-soft' | 'bico-christmas' | 'skye' | 'skye-r' | 'monisen' | monisen2:
+			case 'parents-christmas' | 'parents-christmas-angel' | 'parents-christmas-soft' | 'bico-christmas' | 'skye' | 'skye-r' | 'monisen' :
 				switch (curCharacter)
 				{
 					case 'parents-christmas':
@@ -7239,10 +7263,6 @@ class Character extends FlxSprite
 						frames = Paths.getSparrowAtlas('characters/skye' + pre);
 						iconColor = 'FFFF0000';
 					case 'monisen':
-						frames = Paths.getSparrowAtlas('characters/monisen');
-						iconColor = 'FF8CD465';
-						flipX = true;
-					case 'monisen2':
 						frames = Paths.getSparrowAtlas('characters/monisen');
 						iconColor = 'FF8CD465';
 						flipX = true;

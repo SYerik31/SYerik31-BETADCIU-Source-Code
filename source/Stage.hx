@@ -1875,24 +1875,18 @@ class Stage extends MusicBeatState
 					yuri.updateHitbox();
 					yuri.color = 0x828282;
 
-					switch (SONG.song.toLowerCase())
-					{
-						case "crucify":
-							{
-								add(natsuki);
-								natsuki.x = 1247;
-								natsuki.y = 303;
-								add(sayori);
-								sayori.x = -49;
-								sayori.y = 247;
-								add(protag);
-								protag.x = 150;
-								protag.y = 152;
-								add(yuri);
-								yuri.x = 1044;
-								yuri.y = 178;
-							}
-					}
+					add(natsuki);
+					natsuki.x = 1247;
+					natsuki.y = 303;
+					add(sayori);
+					sayori.x = -49;
+					sayori.y = 247;
+					add(protag);
+					protag.x = 150;
+					protag.y = 152;
+					add(yuri);
+					yuri.x = 1044;
+					yuri.y = 178;
 
 					banner = new FlxSprite(posX, posY).loadGraphic(Paths.image('doki/festival/FestivalBanner', 'shared'));
 					banner.setGraphicSize(Std.int(banner.width * 1.6));

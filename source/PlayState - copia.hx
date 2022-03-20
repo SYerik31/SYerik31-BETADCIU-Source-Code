@@ -1348,7 +1348,7 @@ class PlayState extends MusicBeatState
 
 				for (i in 0...5)
 				{
-					var dancer:BackgroundDancerHolo = new BackgroundDancerHolo((370 * i) + 130, bgLimo.y - 430);
+					var dancer:BackgroundDancerHolo = new BackgroundDancerHolo((370 * i) + 130, bgLimo.y - 400);
 					dancer.scrollFactor.set(0.4, 0.4);
 					grpLimoDancersHolo.add(dancer);
 				}
@@ -4664,6 +4664,8 @@ class PlayState extends MusicBeatState
 					Stage.swagBacks['momDadBG'].animation.play('idle');
 					Stage.swagBacks['softBFBG'].animation.play('idle');
 					Stage.swagBacks['gfBG'].dance();
+				case 'limoholo-night':
+					gfBG.dance();
 			}
 
 			var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
@@ -6387,6 +6389,14 @@ class PlayState extends MusicBeatState
 				}
 			case 'tank':
 				moveTank();
+			case 'limoholo-night':
+				var rotRateBl = (curStep / 9.5) * 1.2;
+				
+				var bl_toy = -8500 + -Math.sin(rotRateBl * 2) * bl_r * 0.45;
+				var bl_tox = 50 - Math.cos(rotRateBl) * bl_r;
+
+				blantadBG.x += (bl_tox - blantadBG.x) / 12;
+				blantadBG.y += (bl_toy - blantadBG.y) / 12;
 			case 'ballisticAlley':
 				if (health != 2)
 				{
@@ -12584,8 +12594,8 @@ class PlayState extends MusicBeatState
 						if (FlxG.random.bool(10) && fastCarCanDrive)
 							fastCarDrive();
 				}
+					  
 		}
-
 
 		if ((dad.curCharacter.contains('ruv') && !dad.curCharacter.contains('smol') && !dad.curCharacter.contains('sarv') && dad.animation.curAnim.name.startsWith('sing') || boyfriend.curCharacter.contains('ruv') && !boyfriend.curCharacter.contains('smol') && !boyfriend.curCharacter.contains('sarv') && boyfriend.animation.curAnim.name.startsWith('sing')) && curBeat > ruvShakeBeat)
 			ruvShake();
