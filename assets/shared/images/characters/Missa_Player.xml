@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Missa_Player.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Missa ABAJO0000" x="2847" y="721" width="416" height="591" frameX="-5" frameY="-1" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="Missa ABAJO0001" x="2847" y="721" width="416" height="591" frameX="-5" frameY="-1" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="Missa ABAJO0002" x="10" y="10" width="424" height="586" frameX="0" frameY="-6" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0003" x="10" y="10" width="424" height="586" frameX="0" frameY="-6" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0004" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0005" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0006" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0007" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0008" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0009" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0010" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0011" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0012" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0013" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0014" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0015" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0016" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0017" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0018" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0019" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0020" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0021" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0022" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0023" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ABAJO0024" x="444" y="10" width="417" height="592" frameX="0" frameY="0" frameWidth="424" frameHeight="592"/>
+	<SubTexture name="Missa ARRIBA0000" x="443" y="2130" width="410" height="704" frameX="-1" frameY="0" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0001" x="443" y="2130" width="410" height="704" frameX="-1" frameY="0" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0002" x="871" y="10" width="411" height="701" frameX="-1" frameY="-3" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0003" x="871" y="10" width="411" height="701" frameX="-1" frameY="-3" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0004" x="1292" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0005" x="1292" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0006" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0007" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0008" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0009" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0010" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0011" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0012" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0013" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0014" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0015" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0016" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0017" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0018" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0019" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0020" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0021" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0022" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0023" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0024" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0025" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0026" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0027" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0028" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0029" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0030" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0031" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0032" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0033" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0034" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0035" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0036" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0037" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0038" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0039" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0040" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0041" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0042" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0043" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0044" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa ARRIBA0045" x="1710" y="10" width="408" height="693" frameX="0" frameY="-11" frameWidth="412" frameHeight="704"/>
+	<SubTexture name="Missa DERECHA0000" x="3021" y="1423" width="414" height="680" frameX="-7" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0001" x="3021" y="1423" width="414" height="680" frameX="-7" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0002" x="2128" y="10" width="408" height="676" frameX="-7" frameY="-4" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0003" x="2128" y="10" width="408" height="676" frameX="-7" frameY="-4" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0004" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0005" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0006" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0007" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0008" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0009" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0010" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0011" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0012" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0013" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0014" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0015" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0016" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0017" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0018" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0019" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0020" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0021" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0022" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0023" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0024" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0025" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0026" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0027" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0028" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0029" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0030" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0031" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0032" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0033" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0034" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0035" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa DERECHA0036" x="2546" y="10" width="410" height="671" frameX="0" frameY="-9" frameWidth="421" frameHeight="680"/>
+	<SubTexture name="Missa IZQUIERDA0000" x="2966" y="10" width="463" height="697" frameX="-1" frameY="0" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0001" x="2966" y="10" width="463" height="697" frameX="-1" frameY="0" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0002" x="3439" y="10" width="473" height="696" frameX="0" frameY="-1" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0003" x="3439" y="10" width="473" height="696" frameX="0" frameY="-1" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0004" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0005" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0006" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0007" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0008" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0009" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0010" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0011" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0012" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0013" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0014" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0015" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0016" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0017" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0018" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0019" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0020" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0021" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0022" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0023" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0024" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0025" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0026" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0027" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0028" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0029" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="Missa IZQUIERDA0030" x="10" y="721" width="473" height="692" frameX="0" frameY="-5" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="MissaAsustado0000" x="493" y="721" width="395" height="690"/>
+	<SubTexture name="MissaAsustado0001" x="493" y="721" width="395" height="690"/>
+	<SubTexture name="MissaAsustado0002" x="493" y="721" width="395" height="690"/>
+	<SubTexture name="MissaAsustado0003" x="493" y="721" width="395" height="690"/>
+	<SubTexture name="MissaAsustado0004" x="898" y="721" width="395" height="690"/>
+	<SubTexture name="MissaAsustado0005" x="1303" y="721" width="389" height="677" frameX="-6" frameY="-13" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0006" x="1702" y="721" width="389" height="677" frameX="-6" frameY="-13" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0007" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0008" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0009" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0010" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0011" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0012" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0013" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0014" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0015" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0016" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0017" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0018" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0019" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0020" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0021" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0022" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0023" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0024" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0025" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0026" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0027" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0028" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0029" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0030" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0031" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0032" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0033" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0034" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0035" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0036" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0037" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0038" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0039" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0040" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0041" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0042" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0043" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0044" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0045" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0046" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0047" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0048" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0049" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0050" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0051" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0052" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0053" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0054" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0055" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0056" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0057" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0058" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0059" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0060" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0061" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0062" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0063" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0064" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0065" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0066" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0067" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0068" x="2474" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaAsustado0069" x="2101" y="721" width="363" height="690" frameX="-32" frameY="0" frameWidth="395" frameHeight="690"/>
+	<SubTexture name="MissaDOWNMISS0000" x="2847" y="721" width="416" height="591" frameX="-4" frameY="0" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0001" x="2847" y="721" width="416" height="591" frameX="-4" frameY="0" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0002" x="3273" y="721" width="416" height="591" frameX="-4" frameY="0" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0003" x="3273" y="721" width="416" height="591" frameX="-4" frameY="0" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0004" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0005" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0006" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0007" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0008" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0009" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0010" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0011" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0012" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0013" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0014" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0015" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0016" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0017" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0018" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0019" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0020" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0021" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0022" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0023" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0024" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0025" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0026" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0027" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0028" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0029" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0030" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0031" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0032" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0033" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0034" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0035" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0036" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0037" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0038" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0039" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0040" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0041" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0042" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0043" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0044" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0045" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0046" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0047" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0048" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0049" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0050" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0051" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0052" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0053" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0054" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0055" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0056" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0057" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0058" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0059" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0060" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0061" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0062" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0063" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0064" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0065" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaDOWNMISS0066" x="10" y="1423" width="424" height="577" frameX="0" frameY="-14" frameWidth="424" frameHeight="591"/>
+	<SubTexture name="MissaIdle0000" x="444" y="1423" width="399" height="669" frameX="-2" frameY="-19" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0001" x="444" y="1423" width="399" height="669" frameX="-2" frameY="-19" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0002" x="853" y="1423" width="397" height="676" frameX="-1" frameY="-12" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0003" x="853" y="1423" width="397" height="676" frameX="-1" frameY="-12" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0004" x="1260" y="1423" width="397" height="689" frameX="0" frameY="-1" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0005" x="1260" y="1423" width="397" height="689" frameX="0" frameY="-1" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0006" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0007" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0008" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0009" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0010" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0011" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaIdle0012" x="1667" y="1423" width="395" height="690" frameX="-2" frameY="0" frameWidth="401" frameHeight="690"/>
+	<SubTexture name="MissaLEFTMISS0000" x="2966" y="10" width="463" height="697" frameX="-12" frameY="0" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0001" x="2966" y="10" width="463" height="697" frameX="-12" frameY="0" frameWidth="473" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0002" x="2072" y="1423" width="463" height="697" frameX="-12" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0003" x="2072" y="1423" width="463" height="697" frameX="-12" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0004" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0005" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0006" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0007" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0008" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0009" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0010" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0011" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0012" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0013" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0014" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0015" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0016" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0017" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0018" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0019" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0020" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0021" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0022" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0023" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0024" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0025" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0026" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0027" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0028" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0029" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0030" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0031" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0032" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0033" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0034" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0035" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0036" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0037" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0038" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0039" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0040" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0041" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0042" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0043" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0044" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0045" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0046" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0047" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0048" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0049" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0050" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0051" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0052" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0053" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0054" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0055" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0056" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0057" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0058" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0059" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0060" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0061" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0062" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0063" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0064" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0065" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0066" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0067" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0068" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0069" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0070" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0071" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0072" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0073" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0074" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0075" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0076" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0077" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0078" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0079" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0080" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaLEFTMISS0081" x="2545" y="1423" width="466" height="697" frameX="0" frameY="0" frameWidth="475" frameHeight="697"/>
+	<SubTexture name="MissaRIGHTMISS0000" x="3021" y="1423" width="414" height="680" frameX="0" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0001" x="3021" y="1423" width="414" height="680" frameX="0" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0002" x="3445" y="1423" width="414" height="680" frameX="0" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0003" x="3445" y="1423" width="414" height="680" frameX="0" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0004" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0005" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0006" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0007" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0008" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0009" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0010" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0011" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0012" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0013" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0014" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0015" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0016" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0017" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0018" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0019" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0020" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0021" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0022" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0023" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0024" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0025" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0026" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0027" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0028" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0029" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0030" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0031" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0032" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0033" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0034" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0035" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0036" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0037" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0038" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0039" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0040" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0041" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0042" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0043" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0044" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0045" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0046" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0047" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0048" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0049" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0050" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0051" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0052" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0053" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0054" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0055" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0056" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0057" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0058" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaRIGHTMISS0059" x="10" y="2130" width="423" height="680" frameX="-2" frameY="0" frameWidth="425" frameHeight="680"/>
+	<SubTexture name="MissaUPMISS0000" x="443" y="2130" width="410" height="704" frameX="-6" frameY="0" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0001" x="443" y="2130" width="410" height="704" frameX="-6" frameY="0" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0002" x="863" y="2130" width="410" height="704" frameX="-6" frameY="0" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0003" x="863" y="2130" width="410" height="704" frameX="-6" frameY="0" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0004" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0005" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0006" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0007" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0008" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0009" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0010" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0011" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0012" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0013" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0014" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0015" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0016" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0017" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0018" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0019" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0020" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0021" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0022" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0023" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0024" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0025" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0026" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0027" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0028" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0029" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0030" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0031" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0032" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0033" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0034" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0035" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0036" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0037" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0038" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0039" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0040" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0041" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0042" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0043" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0044" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0045" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0046" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0047" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0048" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0049" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+	<SubTexture name="MissaUPMISS0050" x="1283" y="2130" width="423" height="693" frameX="0" frameY="-11" frameWidth="423" frameHeight="704"/>
+</TextureAtlas>
