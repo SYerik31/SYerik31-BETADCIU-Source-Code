@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-154,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Cuphead_standing instance 10"
+		},
+		{
+			"offsets": [
+				-44,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				-161,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				-176,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				-131,
+				64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuphead/Cuphead_Remastered",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		30,
+		0
+	],
+	"camera_position": [
+		-110,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

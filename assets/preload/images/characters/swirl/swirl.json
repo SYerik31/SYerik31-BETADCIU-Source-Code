@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Swirl Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-93
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Swirl Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Swirl Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Swirl Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Swirl Idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/swirl/Swirl_Assets",
+	"position": [
+		130,
+		100
+	],
+	"healthicon": "Swirl",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		116,
+		245
+	],
+	"camera_position": [
+		10,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
