@@ -50,7 +50,7 @@ class SecretState extends MusicBeatState
 
 		lolText = new FlxText(0, 0, FlxG.width - 100, 32);
 		lolText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER);
-		lolText.text = "Nothing to see there, only other Update. Anyways, Thanks for playing!";
+		lolText.text = "After 2 Holy Weeks I'm back with a f*cking update. Sorry for delete the Parish Cover but I need to do it because it just crash and I didn't know how to fix it";
 		lolText.borderColor = FlxColor.BLACK;
 		lolText.borderSize = 3;
 		lolText.borderStyle = FlxTextBorderStyle.OUTLINE;

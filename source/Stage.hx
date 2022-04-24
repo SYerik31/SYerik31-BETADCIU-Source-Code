@@ -3143,16 +3143,32 @@ class Stage extends MusicBeatState
 				layInFront[2].push(sumtable);	
 			}
 
-			case 'hd-spirit':
+			case 'sammy':
 			{
-				camZoom = 0.8;
+				camZoom = 0.5;
 				
-				var bg = new FlxSprite(-600, -300).loadGraphic(Paths.image('hd/schoolBgEvil'));
+				var bg = new FlxSprite(-600, -300).loadGraphic(Paths.image('SammyS', 'shared'));
 				bg.antialiasing = true;
-				bg.scrollFactor.set(0.9, 0.9);
+				bg.scrollFactor.set(0.5, 0.5);
 				bg.active = false;
 				swagBacks['bg'] = bg;
-				toAdd.push(bg);		
+				toAdd.push(bg);	
+
+				var tank4 = new FlxSprite(1600, 2500);
+				tank4.frames = Paths.getSparrowAtlas('Candles', 'shared');
+				tank4.animation.addByPrefix('idle', 'Candless instance 1', 24, false);
+				tank4.scrollFactor.set(1.0, 1.0);
+				tank4.antialiasing = true;
+				swagBacks['tank4'] = tank4;
+				layInFront[2].push(tank4);
+
+				var tank3 = new FlxSprite(1600, 2500);
+				tank3.frames = Paths.getSparrowAtlas('Candles', 'shared');
+				tank3.animation.addByPrefix('idle', 'Light instance 1', 24, false);
+				tank3.scrollFactor.set(1.0, 1.0);
+				tank3.antialiasing = true;
+				swagBacks['tank3'] = tank3;
+				layInFront[2].push(tank3);
 			}
 
 			case 'neko-bedroom':
@@ -4699,7 +4715,7 @@ class Stage extends MusicBeatState
 					}
 				} else 
 					stopWalkTimer--;
-			case 'dokiclubroom-monika' | 'dokiclubroom-sayori' | 'dokiclubroom-natsuki' | 'dokiclubroom-yuri' | 'dokiclubroom2' | 'dokiclubroom3' | 'dokizoom':
+			case 'dokiclubroom-monika' | 'dokiclubroom-sayori' | 'dokiclubroom-natsuki' | 'dokiclubroom-yuri' | 'dokiclubroom2' | 'dokiclubroom3' :
 				if (curBeat % 2 == 0)
 				{
 					if (!curStage.contains('monika'))

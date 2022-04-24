@@ -89,6 +89,7 @@ class PlayState extends MusicBeatState
 	public var chromOn:Bool = false;
 	var ch = 2 / 1000;
 
+	var foregroundGlitch:FlxSprite;
 	public static var curStage:String = '';
 	public var camZoom:Float;
 	public var toAdd:Array<Dynamic> = [];
@@ -250,6 +251,7 @@ class PlayState extends MusicBeatState
 
 	var moreDark:FlxSprite;
 	var blantadBG2:FlxSprite;
+	var stageCurtains:FlxSprite;
 
 	var healthSet:Bool;
 
@@ -555,6 +557,11 @@ class PlayState extends MusicBeatState
 	var pressArray:Array<Bool> = [];	
 	var releaseArray:Array<Bool> = [];
 
+	var glitchLayer:FlxTypedGroup<FlxSprite>;
+	var miiButtons:FlxSprite;
+	var foregroundGlitchLayer:FlxTypedGroup<FlxSprite>;
+	var grpHallway:FlxTypedGroup<FlxSprite>;
+	var channelOverlay:FlxSprite;
 	// API stuff
 	
 	public function addObject(object:FlxBasic) { add(object); }
@@ -1348,7 +1355,7 @@ class PlayState extends MusicBeatState
 
 				for (i in 0...5)
 				{
-					var dancer:BackgroundDancerHolo = new BackgroundDancerHolo((370 * i) + 130, bgLimo.y - 430);
+					var dancer:BackgroundDancerHolo = new BackgroundDancerHolo((370 * i) + 130, bgLimo.y - 400);
 					dancer.scrollFactor.set(0.4, 0.4);
 					grpLimoDancersHolo.add(dancer);
 				}
@@ -1794,8 +1801,49 @@ class PlayState extends MusicBeatState
 						add(bg);
 
 						
-					}
+					}			
+			case 'mii-channel-glitch':
+					{
+						defaultCamZoom = 0.68;
+						curStage = 'mii-channel-glitch';
+						var bg:FlxSprite = new FlxSprite(-550, -230).loadGraphic(Paths.image('eteled/corruptback'));
+						if(FlxG.save.data.antialiasing)
+							{
+								bg.antialiasing = true;
+							}
+						bg.scrollFactor.set(1, 1);
+						bg.active = false;
+						add(bg);
+						grpHallway = new FlxTypedGroup<FlxSprite>();
+						add(grpHallway);
+						var bg:FlxSprite = new FlxSprite(-360, -210).loadGraphic(Paths.image('eteled/glitchhallway2ndsong'));
+						if(FlxG.save.data.antialiasing)
+							{
+								bg.antialiasing = true;
+							}
+						bg.scrollFactor.set(1, 1);
+						bg.active = false;
+						bg.y += FlxG.height * 2;
+						grpHallway.add(bg);
 
+						foregroundGlitch = new FlxSprite(0, 0);
+						foregroundGlitch.frames = Paths.getSparrowAtlas('eteled/glitch effects/glitchAnim');
+						foregroundGlitch.animation.addByPrefix('idle', 'g', 24, true);
+						foregroundGlitch = new FlxSprite(0, 0);
+						foregroundGlitch.frames = Paths.getSparrowAtlas('eteled/glitch effects/noise2');
+						foregroundGlitch.animation.addByPrefix('idle', 'f', 24, true);
+						foregroundGlitch = new FlxSprite(0, 0);
+						foregroundGlitch.frames = Paths.getSparrowAtlas('eteled/glitch effects/noise2R');
+						foregroundGlitch.animation.addByPrefix('idle', 'f', 24, true);
+						foregroundGlitch = new FlxSprite(0, 0);
+						foregroundGlitch.frames = Paths.getSparrowAtlas('eteled/glitch effects/sheet');
+						foregroundGlitch.animation.addByPrefix('idle', 'Idle', 24, true);
+						foregroundGlitch = new FlxSprite(0, 0);
+						foregroundGlitch.frames = Paths.getSparrowAtlas('eteled/glitch effects/sheeto2');
+						foregroundGlitch.animation.addByPrefix('idle', 'n', 24, true);
+						dad = new Character(100, 100, 'eteled3');
+
+					}
 			case 'dokiclubroom':
 				{
 				defaultCamZoom = 0.75;
@@ -4664,6 +4712,8 @@ class PlayState extends MusicBeatState
 					Stage.swagBacks['momDadBG'].animation.play('idle');
 					Stage.swagBacks['softBFBG'].animation.play('idle');
 					Stage.swagBacks['gfBG'].dance();
+				case 'limoholo-night':
+					gfBG.dance();
 			}
 
 			var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
@@ -4793,6 +4843,28 @@ class PlayState extends MusicBeatState
 								stageCurtains.scrollFactor.set(1.17, 1.17);
 
 								add(stageCurtains);
+							case 'mii-channel-glitch':
+								channelOverlay = new FlxSprite(-550, -230).loadGraphic(Paths.image('overlayphase2', 'eteled'));
+								if(FlxG.save.data.antialiasing)
+								{
+									channelOverlay.antialiasing = true;
+								}
+								channelOverlay.scrollFactor.set(1, 1);
+								channelOverlay.active = false;
+								add(channelOverlay);
+				
+								miiButtons = new FlxSprite(-449, -299);//.loadGraphic(Paths.image('stagecurtains'));
+								miiButtons.frames = Paths.getSparrowAtlas('Glitchmiibuttons', 'eteled');
+								miiButtons.animation.addByPrefix('idle', 'stagecurtains', 24);
+								miiButtons.animation.play('idle');
+								miiButtons.updateHitbox();
+								if(FlxG.save.data.antialiasing)
+								{
+									miiButtons.antialiasing = true;
+								}
+								miiButtons.scrollFactor.set(1.17, 1.17);
+
+								add(miiButtons);
 
 							case 'day' | 'sunset' | 'night':
 								var three:FlxSprite = new FlxSprite().loadGraphic(Paths.image('b&b/3', 'shared'));
@@ -6387,6 +6459,14 @@ class PlayState extends MusicBeatState
 				}
 			case 'tank':
 				moveTank();
+			case 'limoholo-night':
+				var rotRateBl = (curStep / 9.5) * 1.2;
+				
+				var bl_toy = -8500 + -Math.sin(rotRateBl * 2) * bl_r * 0.45;
+				var bl_tox = 50 - Math.cos(rotRateBl) * bl_r;
+
+				blantadBG.x += (bl_tox - blantadBG.x) / 12;
+				blantadBG.y += (bl_toy - blantadBG.y) / 12;
 			case 'ballisticAlley':
 				if (health != 2)
 				{
@@ -6959,8 +7039,8 @@ class PlayState extends MusicBeatState
 			persistentDraw = true;
 			paused = true;
 
-			// 1 / 1000 chance for Gitaroo Man easter egg
-			if (FlxG.random.bool(0.1))
+			// 2 / 1000 chance for Gitaroo Man easter egg
+			if (FlxG.random.bool(0.2))
 			{
 				trace('GITAROO MAN EASTER EGG');
 				FlxG.switchState(new GitarooPause());
@@ -12122,6 +12202,16 @@ class PlayState extends MusicBeatState
 			}
 		}
 
+		if (curSong == 'Knockout') 
+		{
+			switch (curStep)
+			{
+				case 106:				
+					changeDadCharacter(0, 120, 'eteled2');
+					changeBoyfriendCharacter(800, 100, 'austin'); 
+			}
+		}
+
 		if (curSong == 'Dead-Pixel') 
 		{
 			switch (curBeat)
@@ -12584,8 +12674,8 @@ class PlayState extends MusicBeatState
 						if (FlxG.random.bool(10) && fastCarCanDrive)
 							fastCarDrive();
 				}
+					  
 		}
-
 
 		if ((dad.curCharacter.contains('ruv') && !dad.curCharacter.contains('smol') && !dad.curCharacter.contains('sarv') && dad.animation.curAnim.name.startsWith('sing') || boyfriend.curCharacter.contains('ruv') && !boyfriend.curCharacter.contains('smol') && !boyfriend.curCharacter.contains('sarv') && boyfriend.animation.curAnim.name.startsWith('sing')) && curBeat > ruvShakeBeat)
 			ruvShake();

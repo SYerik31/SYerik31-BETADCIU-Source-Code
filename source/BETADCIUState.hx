@@ -87,9 +87,9 @@ class BETADCIUState extends MusicBeatState
 		isDebug = true;
 		#end
 
-			addWeek(['Parish', 'Last-Chance', 'Baka'], 1, ['sarvente', 'tabi', 'natsuki']);
-			addWeek(['Triple-Trouble', 'Serious'], 2, ['exe-trio', 'jack3-1']);
-			addWeek(['Intertwined-Ex'], 2, ['ashbera-ex']);
+			addWeek(['Last-Chance', 'Baka'], 1, ['tabi', 'natsuki']);
+			addWeek(['Triple-Trouble', 'Serious', 'Honeydew'], 2, ['exe-trio', 'jack3-1', 'mel']);
+			//addWeek(['Intertwined-Ex'], 2, ['ashbera-ex']);
 			//addWeek(['Takeover', 'Hands', 'Jeez'], 3, ['demoncass', 'coco-car', 'brody']);
 			//addWeek(['Killer-Scream', 'Shotgun-Shell', 'Hill-Of-The-Void'], 4, ['rushia', 'aldryx', 'exe-front']);
 			//addWeek(['Cosmic', 'Storm', 'Haachama'], 5, ['kou', 'annie-bw', 'haachama']);
@@ -293,6 +293,8 @@ class BETADCIUState extends MusicBeatState
 					songCol = 0xFF17FFB2;
 				case 'cosmic':
 					songCol = 0xFFFFACDF;
+				case 'honeydew':
+					songCol = 0xFF00FF90;
 				case 'haachama' | 'haachama-ex':
 					songCol = 0xFFF7C558;
 				case 'scary swings':
@@ -369,7 +371,7 @@ class BETADCIUState extends MusicBeatState
 				{
 					case 'intertwined-ex':
 						fancyOpenURL("https://www.youtube.com/channel/UC4Y1bn0cnq153r7VoAem4hg");
-					case 'parish' | 'last-chance' | 'baka' | 'triple-trouble' | 'serious':
+					case 'parish' | 'last-chance' | 'baka' | 'triple-trouble' | 'serious' | 'honeydew':
 						fancyOpenURL("https://www.youtube.com/channel/UC4Y1bn0cnq153r7VoAem4hg");
 				}
 				
@@ -493,7 +495,7 @@ class BETADCIUState extends MusicBeatState
 				case 'double trouble': startSong('Shinkyoku');
 				case 'norway when': startSong('Norway');
 				case 'holofunk yeah': startSong('Sorrow');
-				case 'good night': startSong('Safety-Lullaby');
+				case 'sakuwantsmore': startSong('Promenade');
 				default: wrongPass = true;
 			}	
 		} 

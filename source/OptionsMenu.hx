@@ -37,6 +37,7 @@ class OptionsMenu extends MusicBeatState
 			// new OffsetMenu("Get a note offset based off of your inputs!"),
 		]),
 		new OptionCategory("Appearance", [
+			new DistractionsAndEffectsOption("Toggle stage distractions that can hinder your gameplay."),
 			new CamZoomOption("Toggle the camera zoom in-game."),
 			new FlashingLightsOption("Toggle flashing lights that can cause epileptic seizures and strain."),
 			new NoteSplashOption("Have the static notes flash when you hit ."),

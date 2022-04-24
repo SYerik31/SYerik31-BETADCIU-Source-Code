@@ -94,7 +94,7 @@ class BonusSongsState extends MusicBeatState
 		addWeek(['Run', 'No-Friends'], 1, ['bigmonika', 'tabi']);
 		addWeek(['Dream-Of-Peace', 'Copy-Sans', 'Endless', 'Animal', 'Killer-Cough'], 2, ['eteled', 'dust-sans', 'gura-amelia', 'nyancat', 'garcellodead']);
 		addWeek(['Nonsensical'], 3, ['sky-mad']);
-		addWeek(['Norski', 'Fading'], 4, ['missa', 'coco-car']);
+		addWeek(['Norski', 'Fading', 'Ritual'], 4, ['missa', 'coco-car', 'sarvente-lucifer']);
 		//addWeek(['WhittyVsSarv', 'High-Sarv', 'Ruvbattle'], 4, ['sarvente', 'sarvente', 'ruv']);
 		//addWeek(['Winter-Horrorland-Miku', 'Memories'], 5, ['miku-mad-christmas', 'sarvente-worried-night']);
 		//addWeek(['Their-Battle', 'Glitcher', 'Sussus-Moogus'], 6, ['tabi', 'agoti-glitcher', 'impostor']);

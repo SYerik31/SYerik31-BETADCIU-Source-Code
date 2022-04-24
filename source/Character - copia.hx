@@ -8093,7 +8093,7 @@ class Character extends FlxSprite
 
 			case 'hypno' | 'huggy' | 'demoman' | 'hypno-two' | 'cassette-girl' | 'aldryx' | 'missingno' | 'gf-market' | 'prdev' | 'spongebob-pibby' | 'steven-pibby' | 'psychic'
 			| 'nikusa' | 'nikusa-shaded' | 'bf-gf-lullaby' | 'gold' | 'aldryx-shaded' | 'aldryx-flipped' | 'bf-nene-flipped' | 'maijin-new-flipped' | 'gabe' | 'finn' | 'sebasy'
-			| 'nusky' | 'bf-ski' | 'swirl' | 'sharv' | 'solazar' | 'cuphead' | 'devil' | 'senpai-real' | 'bf-new-tabi' | 'sez' : 
+			| 'nusky' | 'bf-ski' | 'swirl' | 'sharv' | 'solazar' | 'cuphead' | 'devil' | 'senpai-real' : 
 			    //So large list lol
 				// bcuz sometimes i just wanna use the psych jsons without the lag. was totally worth implementing.
 				isCustom = true;
